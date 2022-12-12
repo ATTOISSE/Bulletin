@@ -1,0 +1,25 @@
+html,body{
+    margin: 0;
+    padding: 0;
+
+}
+*{
+    box-sizing: border-box;
+}
+
+
+label,th,button{
+    font-family: georgia ;
+    font-size: 22px;
+}
+h2{
+    font-family: Harrington;
+    font-weight: bolder;
+}
+::placeholder,select,input,td{
+    font-family: cambria-math;
+    font-style: italic;
+}
+.container{
+    background-color: none;
+}
